@@ -1,3 +1,3 @@
 # Distributed-algorithm-Impl
 
-Java Implementation of Famous distributed algorithm Sync GHS.
+Java Implementation of  distributed algorithm Sync GHS.
